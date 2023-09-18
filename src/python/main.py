@@ -177,5 +177,5 @@ async def curiosidade(ctx):
     await ctx.send(embed=embed1)
     await ctx.send(embed=embed2)
 
-# BOTE TOKEN DO SEU BOT COM O TOKEN DO SEU BOT.
+# Replace TOKEN DO SEU BOT with your bot token.
 bot.run('TOKEN DO SEU BOT')
