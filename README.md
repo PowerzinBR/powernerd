@@ -6,4 +6,8 @@ On the terminal (bash, cmd, powershell) use:
 pip install -r requirements.txt
 ```
 To install dependencies.
-# To 
+# Run the bot
+This bot is running on windows, with Python 3.11, to run it type:
+```bash
+python src/python/main.py
+```
